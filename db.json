@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "supplierId": "S-001",
+    "supplierName": "Velux",
+    "offerBacklog": 32000.0,
+    "orderBacklog": 20000.0,
+    "billsOfLading": 5000.0,
+    "deliveryNotes": 3200.0,
+    "turnover": 5000.0
+  }
+]
