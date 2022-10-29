@@ -9,6 +9,55 @@
          "billsOfLading":5000.0,
          "deliveryNotes":3200.0,
          "turnover":5000.0
+      },
+      {
+         "id":"001",
+         "supplierId":"S-001",
+         "supplierName":"Bauder",
+         "offerBacklog":42000.0,
+         "orderBacklog":30000.0,
+         "billsOfLading":6000.0,
+         "deliveryNotes":4200.0,
+         "turnover":6000.0
+      },
+      {
+         "id":"001",
+         "supplierId":"S-001",
+         "supplierName":"Erlus",
+         "offerBacklog":52000.0,
+         "orderBacklog":40000.0,
+         "billsOfLading":7000.0,
+         "deliveryNotes":5200.0,
+         "turnover":7000.0
+      },
+      {
+         "id":"001",
+         "supplierId":"S-001",
+         "supplierName":"Isover",
+         "offerBacklog":62000.0,
+         "orderBacklog":50000.0,
+         "billsOfLading":8000.0,
+         "deliveryNotes":6200.0,
+         "turnover":8000.0
+      },{
+         "id":"001",
+         "supplierId":"S-001",
+         "supplierName":"Creaton",
+         "offerBacklog":82000.0,
+         "orderBacklog":90000.0,
+         "billsOfLading":15000.0,
+         "deliveryNotes":30000.0,
+         "turnover":75000.0
+      },
+      {
+         "id":"001",
+         "supplierId":"S-001",
+         "supplierName":"Borner",
+         "offerBacklog":478511.0,
+         "orderBacklog":20750.0,
+         "billsOfLading":145698.0,
+         "deliveryNotes":47321.0,
+         "turnover":56200.0
       }
    ]
 }
