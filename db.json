@@ -39,7 +39,8 @@
          "billsOfLading":8000.0,
          "deliveryNotes":6200.0,
          "turnover":8000.0
-      },{
+      },
+      {
          "id":"001",
          "supplierId":"S-001",
          "supplierName":"Creaton",
